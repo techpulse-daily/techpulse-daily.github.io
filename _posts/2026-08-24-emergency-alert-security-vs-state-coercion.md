@@ -4,6 +4,7 @@ title: "Emergency alert security vs state coercion"
 description: "The article examines how emergency alert systems can be compromised by government force, detailing Egypt’s 2011 forced SMS broadcasts and UK legal limits on operator comp"
 date: 2026-08-24
 categories: [news]
+youtube_id: MCUTDjMC0j0
 ---
 
 A technologist analyzed the vulnerabilities of mass emergency alert systems to state coercion and political abuse, contrasting technical security with real-world physical force. The analysis examines historical events such as Egypt's 2011 forced network messaging alongside the legal frameworks governing UK emergency cell broadcasts.
