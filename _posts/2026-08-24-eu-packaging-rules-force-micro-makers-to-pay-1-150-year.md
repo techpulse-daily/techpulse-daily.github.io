@@ -4,6 +4,7 @@ title: "EU Packaging Rules Force Micro‑Makers to Pay €1,150/year"
 description: "The EU Packaging and Packaging Waste Regulation, effective Aug 2026, requires micro‑entrepreneurs to register in each member state, costing about €1,150 per year for just"
 date: 2026-08-24
 categories: [news]
+youtube_id: -MIy3Im8E7Y
 ---
 
 The EU introduced the Packaging and Packaging Waste Regulation (PPWR) that will apply from 12 August 2026, requiring producers to register and meet packaging waste obligations in each Member State where their packaging becomes waste. The new rules impose separate registration, reporting, and authorised‑representative costs for micro‑entrepreneurs selling across the EU.
