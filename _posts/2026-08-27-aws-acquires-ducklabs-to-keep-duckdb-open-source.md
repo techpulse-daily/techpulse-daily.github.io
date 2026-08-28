@@ -4,6 +4,7 @@ title: "AWS acquires DuckLabs to keep DuckDB open source"
 description: "AWS will acquire DuckLabs in early September, allowing the Amsterdam team to continue developing DuckDB, DuckLake and Quack while keeping the tools open source under the"
 date: 2026-08-27
 categories: [news]
+youtube_id: Gb0DHYCtU0o
 ---
 
 DuckLabs announced that it will join Amazon Web Services (AWS), with the acquisition expected to take effect in early September. The team will remain based in Amsterdam and continue working on DuckDB, DuckLake, and Quack.
