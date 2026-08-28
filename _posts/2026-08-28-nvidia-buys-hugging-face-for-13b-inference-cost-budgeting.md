@@ -4,6 +4,7 @@ title: "Nvidia buys Hugging Face for $13B – inference cost & budgeting"
 description: "Nvidia's $13 billion acquisition of Hugging Face changes inference pricing, shifting from per‑token fees to bundled GPU hour costs and adds integration overhead for engin"
 date: 2026-08-28
 categories: [news]
+youtube_id: oYpSPfGSYps
 ---
 
 Most teams assume Nvidia's buy of Hugging Face will magically lower inference costs.
