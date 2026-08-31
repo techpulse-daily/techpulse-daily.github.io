@@ -4,6 +4,7 @@ title: "Bug Blindness: Why Engineers Overlook Software Defects"
 description: "Explore why engineers and users overlook hundreds of recurring defects each week and how recognizing bug blindness improves overall software usability."
 date: 2026-08-30
 categories: [news]
+youtube_id: nzsc6yzpfu4
 ---
 
 The author observed hundreds to thousands of software bugs each week and wrote a post describing the phenomenon of "bug blindness" where most people miss these issues.
