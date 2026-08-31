@@ -4,6 +4,7 @@ title: "Eventual Consistency Explained with Bank Balance Example"
 description: "Learn how eventual consistency works in distributed systems, why temporary stale reads occur, and when to use strong consistency for exact data."
 date: 2026-08-31
 categories: [evergreen]
+youtube_id: _G_uY6qTnAg
 ---
 
 You check your bank balance on two phones three seconds apart and see $1,020 on one and $1,015 on the other. The numbers differ because each device shows a recent copy of the same account, not the exact real‑time value. In distributed systems, that delay is called eventual consistency – a guarantee that all replicas (copies of data) will converge to the same state, but not instantly. When you make a transaction, the update is written to one node and then propagated to others, like the bank syncing the two phones. During that propagation window, reads may return stale data, just like the lower balance you saw. The system trusts that the discrepancy will disappear as updates spread, allowing higher availability and lower latency. However, if you need the exact balance at the moment of checkout, you’d use strong consistency – a stricter rule that forces all nodes to agree before returning a result, which can slow things down. Understanding eventual consistency means you now see why a distributed service can be fast yet temporarily out‑of‑sync.
