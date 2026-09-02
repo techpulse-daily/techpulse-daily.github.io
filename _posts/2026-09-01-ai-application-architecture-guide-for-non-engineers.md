@@ -4,6 +4,7 @@ title: "AI Application Architecture Guide for Non-Engineers"
 description: "Learn structured prompting techniques to keep AI-generated code modular, maintainable, and understandable, so non-engineers can build scalable applications without archit"
 date: 2026-09-01
 categories: [news]
+youtube_id: 67gKUf-Gy_c
 ---
 
 Software developer James Anderson published a guide on DEV.to outlining architectural survival habits for non-engineers building applications with AI. The article provides structured prompting strategies to keep AI-generated code modular, maintainable, and understandable as projects scale.
