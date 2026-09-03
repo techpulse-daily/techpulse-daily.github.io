@@ -4,6 +4,7 @@ title: "Ed Zitron's AI Predictions Tested Against Production Data"
 description: "We analyzed Ed Zitron's AI adoption forecasts against production engineering metrics, tracking how autocomplete tools and review gates impacted real sprint velocity."
 date: 2026-09-02
 categories: [news]
+youtube_id: jl6SgN09kUA
 ---
 
 The hype around Ed Zitron’s AI skepticism often masks a simpler truth: most of his dire timelines missed the actual adoption curve.
