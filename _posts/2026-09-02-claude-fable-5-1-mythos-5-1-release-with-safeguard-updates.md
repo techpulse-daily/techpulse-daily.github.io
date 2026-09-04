@@ -4,6 +4,7 @@ title: "Claude Fable 5.1 & Mythos 5.1 Release with Safeguard Updates"
 description: "Anthropic launched Claude Fable 5.1 (GA) and Claude Mythos 5.1 (trusted access) with up to 45% higher performance, 60% fewer false‑positive security flags and zero‑data‑r"
 date: 2026-09-02
 categories: [news]
+youtube_id: M3CjlalJaSY
 ---
 
 Anthropic released Claude Fable 5.1 and Claude Mythos 5.1, two versions of the same model with different safeguard levels. Fable 5.1 is generally available, while Mythos 5.1 is limited to trusted access programs for cybersecurity and life‑science work.
