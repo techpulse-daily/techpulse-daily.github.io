@@ -4,6 +4,7 @@ title: "How Database Transactions Ensure ACID Guarantees for Money Transfers"
 description: "Learn how atomicity, consistency, isolation, and durability work together in database transactions to prevent money loss during server crashes."
 date: 2026-09-05
 categories: [evergreen]
+youtube_id: m571yHayRJ0
 ---
 
 If you wire 500 dollars to a friend, your bank runs two separate tasks: it subtracts 500 dollars from your account, and it adds 500 dollars to theirs. If the server loses power between step one and step two, your money cannot simply vanish into thin air.
