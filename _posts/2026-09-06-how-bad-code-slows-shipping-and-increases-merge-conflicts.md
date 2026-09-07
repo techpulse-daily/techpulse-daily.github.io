@@ -4,6 +4,7 @@ title: "How Bad Code Slows Shipping and Increases Merge Conflicts"
 description: "Discover how unmanaged bad code in React projects leads to larger diffs, daily merge conflicts, and slower release cycles, and why a 30‑minute refactor can prevent weeks"
 date: 2026-09-06
 categories: [news]
+youtube_id: 28Ahl2GONOo
 ---
 
 Bad code doesn't just get ugly; it eventually stops your team from shipping.
