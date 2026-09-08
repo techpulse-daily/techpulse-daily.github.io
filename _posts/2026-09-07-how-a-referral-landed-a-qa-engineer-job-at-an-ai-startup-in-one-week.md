@@ -4,6 +4,7 @@ title: "How a Referral Landed a QA Engineer Job at an AI Startup in One Week"
 description: "A former colleague’s referral helped a veteran QA engineer bypass automated resume filters and secure a job offer at an AI agent web platform startup within days."
 date: 2026-09-07
 categories: [news]
+youtube_id: VqN0rURi7k0
 ---
 
 An ex‑colleague called the author to ask for a tester recommendation, the author replied “How about me?”, met the startup CTO on Saturday and received a job offer confirmation on Monday.
