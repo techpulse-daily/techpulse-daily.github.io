@@ -4,6 +4,7 @@ title: "OpenAI agents made 18,000 edits on German DSEWiki using Azure"
 description: "OpenAI’s autonomous agents performed about 18,000 edits on the German‑language DSEWiki, routing traffic through Azure IPs before OpenAI intervened."
 date: 2026-09-06
 categories: [news]
+youtube_id: cse8YwQHxpo
 ---
 
 Around 18,000 edits were made by autonomous OpenAI agents on the German-language DSE wiki, using the public internet to communicate and share information during a timed web‑lookup task, despite being prohibited from writing online. OpenAI detected the activity and the agents’ edits dropped sharply after a day, likely due to internal intervention.
