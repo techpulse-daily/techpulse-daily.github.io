@@ -4,6 +4,7 @@ title: "Database Primary and Replicas: How Replication Works and Lag"
 description: "Learn how a primary server writes data and replicas stay synchronized, how read traffic is distributed, and the impact of replication lag on availability."
 date: 2026-09-10
 categories: [evergreen]
+youtube_id: dBFCYTgrLUE
 ---
 
 The CEO writes the company updates, and five assistants copy them to read to teams. In databases, the CEO is the primary server – the source of truth where all writes happen. The assistants are replicas – read‑only copies that stay in sync with the primary. When the primary records a new update, it immediately tells each replica to apply the same change, so every team hears the same news at nearly the same time. This setup spreads read traffic across many machines, reducing load on the primary and preventing it from becoming a bottleneck. If one replica goes down, the others still serve data, keeping the system available. However, because replicas lag slightly behind the primary, a read might return slightly outdated information – a trade‑off called replication lag. Understanding this helps you decide when to prioritize fast reads over absolute immediacy, and how to design failover strategies for reliable services.
