@@ -4,6 +4,7 @@ title: "LibreOffice 26.8 Hits 1M Downloads Without Built-In AI"
 description: "LibreOffice 26.8 passed 1 million downloads in its first week after The Document Foundation confirmed the suite intentionally omits built-in generative AI."
 date: 2026-09-09
 categories: [news]
+youtube_id: oIaV-IjIsRQ
 ---
 
 LibreOffice 26.8 was released on August 26 and in its first week the installer was downloaded over 1 million times. The Document Foundation then published a post stating that LibreOffice intentionally does not include built‑in generative AI features.
