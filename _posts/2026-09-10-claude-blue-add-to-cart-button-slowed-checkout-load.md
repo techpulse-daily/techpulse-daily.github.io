@@ -4,6 +4,7 @@ title: "Claude: blue Add to Cart button slowed checkout load"
 description: "We changed the Add to Cart button color to brand‑blue in Claude, which triggered a 350 KB CSS bundle reload and increased first‑paint time from 1.2 s to 2.0 s on 4G."
 date: 2026-09-10
 categories: [news]
+youtube_id: ZDJEHsoJsX8
 ---
 
 Changing a button’s hue shouldn’t be a performance story, but it became one for us.
