@@ -4,6 +4,7 @@ title: "How to Safely Implement LLM Prompt Filters Without Production Outages"
 description: "Learn practical steps to add robust prompt‑filter middleware for LLMs, avoid false positives, and monitor latency and prompt length to prevent downtime."
 date: 2026-09-13
 categories: [news]
+youtube_id: 3QQkB_GeuN0
 ---
 
 Everyone should hit the brakes on AI, except the team that’s already building the safety net.
