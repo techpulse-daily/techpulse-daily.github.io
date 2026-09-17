@@ -4,6 +4,7 @@ title: "Vibe Coding vs Engineering: Risks of Unreviewed AI Code"
 description: "Explains why relying on AI-generated code without human review endangers security, maintenance, and compliance in financial and health software."
 date: 2026-09-15
 categories: [news]
+youtube_id: MCs_zw6dSI4
 ---
 
 Software engineer and engineering manager Giorgi Kobaidze published an article analyzing the difference between vibe coding and software engineering. The piece examines the role of human code review and sparked debate among developers regarding what constitutes engineering versus assembly.
