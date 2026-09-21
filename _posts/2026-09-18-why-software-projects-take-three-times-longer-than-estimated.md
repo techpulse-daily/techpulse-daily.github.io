@@ -4,6 +4,7 @@ title: "Why Software Projects Take Three Times Longer Than Estimated"
 description: "Software estimates often fall short because the final polishing phase expands to three times the original forecast, driven by hidden bugs, edge cases, and inadequate buff"
 date: 2026-09-18
 categories: [evergreen]
+youtube_id: YjbGQGyi_Rg
 ---
 
 The last 10% of a feature always eats the other 90% of the timeline.
