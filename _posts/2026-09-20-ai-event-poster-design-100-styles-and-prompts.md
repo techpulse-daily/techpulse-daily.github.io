@@ -4,6 +4,7 @@ title: "AI Event Poster Design: 100 Styles and Prompts"
 description: "Learn how to avoid generic outputs with a catalog of 100 distinct AI poster design styles, complete with ready-to-paste prompts and visual examples."
 date: 2026-09-20
 categories: [news]
+youtube_id: j8zqNU4lvMc
 ---
 
 The author prompted ChatGPT with event details and repeatedly asked for poster designs in different visual styles, demonstrating that AI can produce a wide variety of non‑generic poster aesthetics.
