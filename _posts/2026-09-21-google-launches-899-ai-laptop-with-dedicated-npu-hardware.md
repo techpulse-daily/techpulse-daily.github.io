@@ -4,6 +4,7 @@ title: "Google launches $899 AI laptop with dedicated NPU hardware"
 description: "Google's new $899‑plus ‘Googlebook’ laptop ships with a dedicated AI accelerator, aiming to run edge models locally and reduce cloud API costs, but raises concerns about"
 date: 2026-09-21
 categories: [news]
+youtube_id: 4Q_11FamUvA
 ---
 
 Pushing AI workloads onto client hardware doesn't eliminate infrastructure costs; it just renames them as memory contention and thermal throttling.
