@@ -4,6 +4,7 @@ title: "Claude Opus 5.5 scores 66.4% on Terminal-Bench, beating GPT-6"
 description: "Claude Opus 5.5 delivers a 66.4% score on the Terminal‑Bench 4.0 agentic coding benchmark, surpassing GPT‑6 Astra’s 57.9% and cutting workload costs by up to 40%."
 date: 2026-09-22
 categories: [news]
+youtube_id: ZBTJ2DwhnUA
 ---
 
 Anthropic has released Claude Opus 5.5, the first model in its Claude 5.5 family. The release provides improvements in agentic coding and knowledge work while reducing operating costs and compute requirements compared to Opus 5.
