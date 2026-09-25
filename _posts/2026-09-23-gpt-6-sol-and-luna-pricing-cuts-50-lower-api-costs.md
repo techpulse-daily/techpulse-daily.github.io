@@ -4,6 +4,7 @@ title: "GPT-6 Sol and Luna pricing cuts: 50% lower API costs"
 description: "OpenAI’s new GPT‑6 Sol and Luna models halve API pricing to $2 per million input tokens and $10 per million output tokens, cutting costs for engineers."
 date: 2026-09-23
 categories: [news]
+youtube_id: EN3BZ8gN3wo
 ---
 
 OpenAI announced the release of two new GPT‑6 models, Sol and Luna, as part of the GPT‑6 family. The models are now available in ChatGPT Work, Codex, and the API (gpt-6-sol, gpt-6-luna).
