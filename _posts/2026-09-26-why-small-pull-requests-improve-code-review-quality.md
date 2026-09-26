@@ -4,6 +4,7 @@ title: "Why Small Pull Requests Improve Code Review Quality"
 description: "Learn how small pull requests lead to faster approvals, more thorough reviews, fewer merge conflicts, and easier bug tracking compared to large changes."
 date: 2026-09-26
 categories: [evergreen]
+youtube_id: QJguJ3o2TOs
 ---
 
 A 2,000-line code review gets approved in two seconds, while a 20-line change attracts 40 comments.
