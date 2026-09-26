@@ -4,6 +4,7 @@ title: "F-Droid 2.0 adds Material Design UI and unified installer"
 description: "F-Droid 2.0 launches with a complete UI redesign using Material Design, improved search and filtering, a unified installer, and automatic background updates for open‑sour"
 date: 2026-09-25
 categories: [news]
+youtube_id: toN8w7JpaEk
 ---
 
 F-Droid released version 2.0, a complete redesign of the official app after more than a year of development.
