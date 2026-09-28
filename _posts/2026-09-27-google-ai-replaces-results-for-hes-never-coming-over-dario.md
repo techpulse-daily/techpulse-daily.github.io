@@ -4,6 +4,7 @@ title: "Google AI replaces results for 'hes never coming over dario'"
 description: "On Sep 27 2026 we report how Google’s AI answer overlay returned an AI-generated summary for the query “hes never coming over dario,” replacing expected tweets and Reddit"
 date: 2026-09-27
 categories: [news]
+youtube_id: YyvE74CCOJw
 ---
 
 The author searched the phrase "hes never coming over dario" on Google and received an AI-generated overview instead of the expected links to old tweets and Reddit posts.
