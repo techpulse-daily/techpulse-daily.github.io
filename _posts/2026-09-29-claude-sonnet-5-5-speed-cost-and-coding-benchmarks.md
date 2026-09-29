@@ -4,6 +4,7 @@ title: "Claude Sonnet 5.5: Speed, Cost, and Coding Benchmarks"
 description: "Anthropic's Claude Sonnet 5.5 delivers 30% faster inference, 30% lower task costs, and a 70.6% score on the Terminal-Bench 4.0 agentic coding benchmark."
 date: 2026-09-29
 categories: [news]
+youtube_id: uJ27xYUL33I
 ---
 
 Anthropic launched Claude Sonnet 5.5, the second model in the Claude 5.5 family, as a faster, lower‑cost complement to Claude Opus 5.5. The new model runs over 30% faster and typically costs up to 30% less per task than its predecessor Sonnet 5.
