@@ -4,6 +4,7 @@ title: "Fine-tuning vs Prompting vs RAG: How Each AI Method Works"
 description: "Learn the differences between fine-tuning, prompting, and retrieval‑augmented generation, and when to use each for speed, cost, and accuracy."
 date: 2026-09-28
 categories: [evergreen]
+youtube_id: vLTov8Hy7tQ
 ---
 
 Re‑educating the chef, giving a detailed order ticket, or handing an open textbook—that’s how fine‑tuning, prompting, and RAG work with AI.
