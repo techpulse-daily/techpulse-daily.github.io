@@ -4,6 +4,7 @@ title: "GPT-6.1 Sol offers Astra-level AI at one-fifth the price"
 description: "GPT-6.1 Sol matches GPT-6 Astra performance on coding and business tasks while costing only $0.10 per million tokens, a fifth of Astra's price."
 date: 2026-09-30
 categories: [news]
+youtube_id: 4vGiaslYTo0
 ---
 
 OpenAI introduced GPT-6.1 Sol, an upgrade to GPT-6 Sol that approaches GPT-6 Astra's intelligence on agentic coding, computer use, and professional tasks. The model is available via the API as gpt-6.1-sol and to paid tiers in ChatGPT Work and Codex at one-fifth of Astra's standard token pricing.
