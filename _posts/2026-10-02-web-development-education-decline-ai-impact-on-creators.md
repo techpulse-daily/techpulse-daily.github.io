@@ -4,6 +4,7 @@ title: "Web Development Education Decline: AI Impact on Creators"
 description: "Explore how generative AI scrapers and chatbots are collapsing revenue for independent web development educators, course creators, and technical writers."
 date: 2026-10-02
 categories: [news]
+youtube_id: -MCu2a6WNDs
 ---
 
 Independent web development educators, course creators, and technical writers have reported a severe collapse in their business revenues and website traffic. Many are shutting down their training projects, taking their blogs and books offline, or leaving public-facing developer roles due to burnout and the impact of generative AI.
