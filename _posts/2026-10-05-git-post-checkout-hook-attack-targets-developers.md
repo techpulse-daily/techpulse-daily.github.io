@@ -4,6 +4,7 @@ title: "Git Post-Checkout Hook Attack Targets Developers"
 description: "Learn how attackers use malicious Git post-checkout hooks in shared repositories to execute arbitrary code and compromise developer credentials."
 date: 2026-10-05
 categories: [news]
+youtube_id: IlueDZTaKHg
 ---
 
 Frank Wiles was targeted by an attacker posing as an Ed Tech client who shared a Dropbox folder containing a hidden .git directory. When asked to switch to an 'NDA branch' to sign an agreement, Wiles discovered a malicious post-checkout hook designed to execute arbitrary code.
