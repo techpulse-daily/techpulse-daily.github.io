@@ -4,6 +4,7 @@ title: "Mistral Large 4 handles 64k token code migration test"
 description: "We evaluated Mistral Large 4 by feeding it a 64k-token Angular-to-React diff; the model kept type safety across the file, only stumbling on an old un-typed reducer."
 date: 2026-10-07
 categories: [news]
+youtube_id: ljKwjP9QB7c
 ---
 
 The best way to evaluate an LLM release isn't to look at the benchmark slide; it's to see how quietly it handles a messy context window in your own codebase.
