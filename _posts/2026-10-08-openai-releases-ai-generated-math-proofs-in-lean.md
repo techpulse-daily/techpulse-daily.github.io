@@ -4,6 +4,7 @@ title: "OpenAI Releases AI-Generated Math Proofs in Lean"
 description: "Explore new AI-generated mathematical proofs released by OpenAI with Lean formalizations, compute estimates, and reasoning summaries for software engineers."
 date: 2026-10-08
 categories: [news]
+youtube_id: enD7CoN51BQ
 ---
 
 OpenAI is releasing a broad range of new mathematical results produced by an internal frontier model. The results are being published in a GitHub repository along with formalizations of proofs in the Lean programming language.
