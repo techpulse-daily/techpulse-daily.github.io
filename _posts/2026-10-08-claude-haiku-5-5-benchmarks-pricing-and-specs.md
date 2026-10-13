@@ -4,6 +4,7 @@ title: "Claude Haiku 5.5: Benchmarks, Pricing, and Specs"
 description: "Explore Claude Haiku 5.5 performance metrics, new adjustable effort settings, and cost reductions that lower production expenses for high-volume tasks."
 date: 2026-10-08
 categories: [news]
+youtube_id: sTO8fWyiPVk
 ---
 
 Anthropic launched Claude Haiku 5.5, its newest small language model, and made it generally available on all cloud platforms and the Claude Platform. The release also includes new pricing that lowers Haiku 5.5’s cost compared with Haiku 4.5 and halves the price of Sonnet 5.5 cache reads.
