@@ -4,6 +4,7 @@ title: "Apple HomeView: 7-Inch Smart Display and Hub Specs"
 description: "Explore the Apple HomeView smart home hub, featuring a 7-inch Liquid Retina display, Siri AI, multi-user recognition, and a 12MP Center Stage camera."
 date: 2026-10-14
 categories: [news]
+youtube_id: HxaxCEI1wXM
 ---
 
 Apple announced the Apple HomeView, a smart home device and central hub featuring a 7-inch Liquid Retina display, Siri AI, and a 12MP Center Stage camera. It is available for pre-order starting November 13 in four colors and offers both tabletop and wall-mounted options.
