@@ -4,6 +4,7 @@ title: "AI Agent Retry Bugs Are Distributed Systems Problems"
 description: "Learn why AI agent retry bugs stem from distributed systems failures and how idempotency keys, durable intent logs, and execution states fix them."
 date: 2026-10-20
 categories: [news]
+youtube_id: 77S1u_a0HZU
 ---
 
 An article published on Dev.to by Dimitris Kyrkos argued that AI agent retry bugs are fundamentally distributed-systems problems rather than AI reasoning issues. The author and commenters discussed architectural failure modes like timeouts, missing idempotency keys, and concurrent worker conflicts.
