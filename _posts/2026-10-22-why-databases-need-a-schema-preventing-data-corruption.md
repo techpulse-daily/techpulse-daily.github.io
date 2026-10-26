@@ -4,6 +4,7 @@ title: "Why Databases Need a Schema: Preventing Data Corruption"
 description: "Learn why database schemas are essential for enforcing structural boundaries, preventing data corruption, and maintaining application integrity."
 date: 2026-10-22
 categories: [evergreen]
+youtube_id: rn-Jy18WzsY
 ---
 
 A paper doctor form with eight tiny boxes stops an applicant from writing the word 'yes' for their date of birth. Blank forms invite unpredictable answers.
@@ -12,7 +13,7 @@ A paper doctor form with eight tiny boxes stops an applicant from writing the wo
 
 That rigid paper layout is what software engineers call a schema: a formal blueprint that enforces exact rules on every piece of incoming data. When your application submits a new user record, the database engine inspects every single field against predefined formats before writing anything down to disk.
 
-## Preventing Corruption
+## Downstream Impact
 
 Without those strict boundaries, an errant update script will quietly save a billing street address where a numeric price belongs, breaking every downstream financial report. A schema exists so that code reading the database five years from now never has to guess what old code was trying to save.
 
