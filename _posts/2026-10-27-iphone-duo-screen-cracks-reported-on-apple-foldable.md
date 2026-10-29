@@ -4,6 +4,7 @@ title: "iPhone Duo Screen Cracks Reported on Apple Foldable"
 description: "Apple confirms display failures on the new iPhone Duo foldable handset, raising design considerations for mobile engineers handling screen creases."
 date: 2026-10-27
 categories: [news]
+youtube_id: FfeelL5HXdE
 ---
 
 Owners of Apple's new iPhone Duo reported cracks appearing on the inner screens of the foldable handset shortly after release. Apple confirmed that a small number of units have been affected by a display glitch and advised users to contact AppleCare for a replacement.
