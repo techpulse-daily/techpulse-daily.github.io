@@ -4,6 +4,7 @@ title: "Node.js Worker Threads: CPU Workload & Scheduling Guide"
 description: "Learn how to divide CPU-intensive tasks across Node.js worker threads using smart scheduling and worker pools to prevent main thread blocking."
 date: 2026-10-27
 categories: [news]
+youtube_id: bhNI4FIFoAI
 ---
 
 An article was published detailing how to divide work across threads in JavaScript using Node.js. It explores strategies for managing CPU cores, workloads, and worker scheduling.
