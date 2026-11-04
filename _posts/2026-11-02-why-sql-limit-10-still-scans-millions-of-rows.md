@@ -4,6 +4,7 @@ title: "Why SQL LIMIT 10 Still Scans Millions of Rows"
 description: "Learn why database queries with a LIMIT clause still read entire tables into memory, why it slows down your server, and how proper indexing fixes it."
 date: 2026-11-02
 categories: [evergreen]
+youtube_id: X8jt8SBHeN0
 ---
 
 A teacher grades one thousand essays just to hand back the ten best.
@@ -18,4 +19,4 @@ You ask for ten rows from your users table, but the query engine has no idea whi
 
 The limit keyword stops the output, not the work, burning your server CPU just to throw away ninety-nine percent of the data it just fetched.
 
-When was the last time a slow dashboard query made your browser freeze during a morning standup meeting?
+When was the last time a slow dashboard query made your browser freeze during a morning standup meeting? Check your query plans.
