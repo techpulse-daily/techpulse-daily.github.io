@@ -4,6 +4,7 @@ title: "Astra Weight-Space Programming for Qwen LLM"
 description: "Explore Astra, a weight-space programming technique that lets Qwen modify its own attention weights in real time to bypass text generation limits."
 date: 2026-11-03
 categories: [news]
+youtube_id: l0QYONAZ4D8
 ---
 
 Letting an LLM write its own attention weights directly is weight-space programming.
