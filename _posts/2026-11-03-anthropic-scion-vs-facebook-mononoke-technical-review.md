@@ -4,6 +4,7 @@ title: "Anthropic Scion vs Facebook Mononoke: Technical Review"
 description: "An external engineer analyzes Anthropic's Scion migration, compares its design and workflow to Facebook's Mononoke, and explains scalability benefits for massive monorepo"
 date: 2026-11-03
 categories: [news]
+youtube_id: wfNURHTKHiw
 ---
 
 Anthropic published a blog post detailing its new centralized version control system, Scion, and its migration from Git. An engineer on the Source Control team at Databricks subsequently published an outsider's technical commentary on the design, development process, and similarities to Facebook's Mononoke.
