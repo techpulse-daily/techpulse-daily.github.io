@@ -4,6 +4,7 @@ title: "iOS 17.2.1 Security Update Patches Messages and AirPlay"
 description: "Apple released iOS 17.2.1 to patch critical security vulnerabilities in Messages and AirPlay, preventing unauthorized group chats and pairing bypasses."
 date: 2026-11-10
 categories: [news]
+youtube_id: iQFZgF2Dkhw
 ---
 
 Apple released iOS 27.2.1 for iPhone alongside a variety of related software updates on other platforms. The update includes bug fixes and security updates addressing vulnerabilities in Messages, AirPlay, Bluetooth, and more.
