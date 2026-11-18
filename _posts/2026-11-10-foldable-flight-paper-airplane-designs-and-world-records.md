@@ -4,6 +4,7 @@ title: "Foldable Flight Paper Airplane Designs and World Records"
 description: "Explore the Foldable Flight paper airplane catalog, featuring difficulty levels, plane types, and the Unite design holding the 31.2-second record."
 date: 2026-11-10
 categories: [news]
+youtube_id: IRgwtud1nDc
 ---
 
 Foldable Flight has published a collection of paper airplane designs and tutorials on its website. Users can browse and select from various folding difficulty levels, paper types, and plane types.
