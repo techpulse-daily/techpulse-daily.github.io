@@ -4,6 +4,7 @@ title: "CMU Computer Science Courses on YouTube: Theory vs Reality"
 description: "Free CMU lectures build valuable mechanical sympathy, but applying advanced database algorithms to web services often creates production memory leaks."
 date: 2026-11-17
 categories: [news]
+youtube_id: 3iNpeZAWnXw
 ---
 
 Picture an engineer who spends two weeks watching CMU's database systems lectures on YouTube.
